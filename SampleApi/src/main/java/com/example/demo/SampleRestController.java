@@ -23,7 +23,7 @@ public class SampleRestController {
     
     private List<Item> getTestData() {
     	Item item = new Item();
-    	item.setName("aaa");
+    	item.setName("aaaa");
     	item.setPrice(1000);
     	List<Item> items = new ArrayList<Item>();
     	items.add(item);
